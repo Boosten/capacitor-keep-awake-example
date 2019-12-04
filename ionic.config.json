@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-keep-awake-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
